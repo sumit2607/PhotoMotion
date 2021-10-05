@@ -1,0 +1,27 @@
+Eagle Apps
+hi@tuppleapps.com	
+2021 (c)
+
+don't forget to rate us with stars, to keep new updates :)
+___________________________________________________________________
+
+version 1.1 :
+====================
++ Bug Fixes / Crash Fix
+
+Changed Files:
+app/src/main/java/com/codeshare/photomotion/activity/AlbumListActivity.java (line 65)
+app/src/main/java/com/codeshare/photomotion/activity/CropActiivty.java (line 62)
+app/src/main/java/com/codeshare/photomotion/activity/GalleryListActivity.java (line 141)
+app/src/main/java/com/codeshare/photomotion/activity/SavingActivity.java (line 401)
+app/src/main/java/com/codeshare/photomotion/activity/MyAlbumActivity.java (line 234)
+
+version 1.0 :
+====================
++ Photo Motion - Animation in Photos and Motion in backgrounds
+- Make Live photos
+- Live wallpapers 
+- Moving Backgrounds and Themes
+
+
+
